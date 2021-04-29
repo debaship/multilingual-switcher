@@ -1,0 +1,25 @@
+---
+layout: base
+---
+<div class="row">
+    <div class="col">
+        {% include breadcrumbs.html %}
+        <div class="row card">
+            <div class="col-md-9 p-4 article-wrapper">
+                <h4>{{ page.title }}</h4>
+                <p>{{ site.data.i18n[page.lang].categories.categs }}: {% for category in page.categories %}
+                    <a href="{{site.baseurl}}/{{page.lang}}/category/{{category}}">
+                        {{ site.data.categories.categories[category].title[page.lang] }}
+                    </a>
+                    {% endfor %}
+                </p>
+                {{ content }}
+                <hr>
+                {% include articles/related.html %}
+            </div>
+            <div class="col-md-3 p-4 bg-light">
+                {% include articles/in_category.html %}
+            </div>
+        </div>
+    </div>
+</div>

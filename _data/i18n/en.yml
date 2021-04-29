@@ -1,0 +1,34 @@
+global:
+  title: TourHunter Help Center
+  tagline: Find answers and advice on how to work with TourHunter
+  description: All-in-one Booking Platform and Marketplace For Tours & Activities
+  keywords: Tours, Activities, TourHunter
+
+main:
+  welcomeSection:
+    anchor: how
+    heading: How can we help?
+    p1: Looking for something? Search it here!
+    searchbar: What can we help you with?
+    noresults: No results found
+
+# Everything related to categories
+# NOTE: translations for category name/desc are at: _data/categories.yml
+categories:
+  category: "Category"
+  categs: "Categories"
+  morecategories: More categories
+
+footer:
+  contribute: Contribute
+  reqnewfeature: Request a New Feature
+  reportabug: Report a Bug
+  askaquestion: Ask a Question
+  helpwitharticles: Help with Articles
+  helpwithtranslations: Help with Translations
+  about: About
+  jobs: Jobs
+  
+articles:
+  related: Related articles
+  inthiscategory: Articles in this category

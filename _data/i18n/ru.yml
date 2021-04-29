@@ -1,0 +1,32 @@
+global:
+  title: TourHunter Центр Поддержки
+  tagline: Найдите ответы и советы о том, как работать с TourHunter
+  description: Универсальная платформа бронирования и торговая площадка для туров и мероприятий
+  keywords: туры, мероприятия, турхантер
+
+main:
+  welcomeSection:
+    anchor: чем
+    heading: Чем мы можем вам помочь?
+    p1: Ищете что-то? Найдите это здесь!
+    searchbar: Чем мы можем вам помочь?
+    noresults: Результатов не найдено
+
+categories:
+  category: "Категория"
+  categs: "Категории"
+  morecategories: Другие категории
+
+footer:
+  contribute: Внести свой вклад
+  reqnewfeature: Запросить новую функцию
+  reportabug: Сообщить об ошибке
+  askaquestion: Задать вопрос
+  helpwitharticles: Помощь со статьями
+  helpwithtranslations: Помощь с переводами
+  about: О нас
+  jobs: Вакансии
+  
+articles:
+  related: Статьи по теме
+  inthiscategory: Статьи в этой категории

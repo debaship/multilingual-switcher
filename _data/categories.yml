@@ -1,0 +1,257 @@
+categories:
+  getting-started:
+    top: true
+    title:
+      en: "Getting started"
+      ru: "Начало работы"
+    desc:
+      en: "Hit the ground running by completing these simple steps: Create a product, schedule calendar sessions, customise your online storefront and start selling online in less than 15 minutes! Let's get started..."
+      ru: "Начните работу, выполнив следующие простые действия: создайте продукт, запланируйте сессии в календаре, настройте свою онлайн витрину и начните продавать онлайн менее чем за 15 минут! Давайте начнем..."
+    subcategories:
+      company:
+        en: "Company"
+        ru: "Компания"
+      employees:
+        en: "Employees"
+        ru: "Сотрудники"
+      tours:
+        en: "Tours"
+        ru: "Туры"
+
+  what-s-new-in-tourhunter:
+    top: true
+    title:
+      en: "What's new in TourHunter"
+      ru: "Что нового в TourHunter"
+    desc:
+      en: "Our product & development teams are regularly adding improvements and enhancing TourHunter. You will find a list of our most recent enhancements here."
+      ru: "Наши команды по продукту и разработке регулярно улучшают и добавляют новые возможности в TouHunter. Вы найдете список наших последних улучшений здесь."
+
+  marketplace:
+    title:
+      en: "Marketplace"
+      ru: "Маркетплейс"
+    desc:
+      en: "Information about the place of buying and selling tours, where Suppliers and Agents are cooperate."
+      ru: "Информация о рынке, где покупают и продают туры, где сотрудничают Туроператоры и Турагенты."
+    subcategories:
+      bookings:
+        en: "Bookings"
+        ru: "Букинги"
+      tours:
+        en: "Tours"
+        ru: "Туры"
+      net-rates:
+        en: "Net rates"
+        ru: "Сезонные тарифы"
+
+  bookings:
+    title:
+      en: "Bookings"
+      ru: "Букинги"
+    desc:
+      en: "Here you can find answers on how to manage a bookings for a tours."
+      ru: "Здесь вы найдете информацию о том как управлять бронированием туров."
+    subcategories:
+      managing-a-bookings:
+        en: "Managing a bookings"
+        ru: "Управление букингами"
+      manifest-view:
+        en: "Manifest view section"
+        ru: "Раздел Manifest view"
+      booking-view:
+        en: "Booking view section"
+        ru: "Раздел Booking view"
+      transfer-view:
+        en: "Transfer view section"
+        ru: "Раздел Transfer view"
+
+  customers:
+    title:
+      en: "Customers"
+      ru: "Клиенты"
+    desc:
+      en: "Information about who are a customers and how to manage their profiles."
+      ru: "Информация о том, кто такие клиенты и как работать с их профилями."
+
+  agents:
+    title:
+      en: "Agents"
+      ru: "Турагенты"
+    desc:
+      en: "Information about how to be an Agent and cooperate with other companies."
+      ru: "Информация о том как быть Турагентом и сотрудничать с другими компаниями."
+      
+  suppliers:
+    title:
+      en: "Suppliers"
+      ru: "Туроператоры"
+    desc:
+      en: "Information about how to be a Supplier and cooperate with other companies."
+      ru: "Информация о том как быть Туроператором и сотрудничать с другими компаниями."
+
+  tours:
+    title:
+      en: "Tours"
+      ru: "Туры"
+    desc:
+      en: "Information about how to create your own tours."
+      ru: "Информация о том как создавать свои туры."
+      
+  notifications:
+    title:
+      en: "Notifications"
+      ru: "Уведомления"
+    desc:
+      en: "You didn't setup your notifications yet? Get all instructions here about messages and notifications!"
+      ru: "Вы еще не настроили себе уведомления о событиях? Получите все необходимые инструкции здесь о сообщениях и уведомлениях!"     
+    subcategories:
+      pending-requests:
+        en: "Pending requests"
+        ru: "Запросы, ожидающие действий"
+      messages:
+        en: "Messages"
+        ru: "Сообщения"
+      
+  account:
+    title:
+      en: "Account"
+      ru: "Профиль"
+    desc:
+      en: "Information about account settings, service options, changing password or email."
+      ru: "Информация о настройках учетной записи, опциях обслуживания, смене пароля или электронной почты."
+    subcategories:
+      my-profile:
+        en: "My profile"
+        ru: "Мой профиль"
+      my-account:
+        en: "My account"
+        ru: "Мой аккаунт"      
+      
+  billing-payments:
+    title:
+      en: "Billing & payments"
+      ru: "Оплата и счета"
+    desc:
+      en: "Information about billing and payments processes. Manage billing, payments, invoices."
+      ru: "Информация о биллинге и платежных процессах. Управляйте оплатами, платежами, счетами."
+
+  languages:
+    title:
+      en: "Languages"
+      ru: "Языки"
+    desc:
+      en: "Information about how to localize your product using language setup."
+      ru: "Информация о том как локализовать ваш продукт с помощью языковых настроек."      
+
+  company-details:
+    title:
+      en: "Company details"
+      ru: "Сведения о компании"
+    desc:
+      en: "Find info such as how to edit and manage your company's location, open hours, contacts etc."
+      ru: "Найдите информацию, например, как редактировать и настроить местоположением вашей компании, часы работы, контакты и т. д."
+
+  visual-preferences:
+    title:
+      en: "Visual preferences"
+      ru: "Визуальные предпочтения"
+    desc:
+      en: "Get information about how you can setup custom names on different setings."
+      ru: "Получить информацию о том, как вы можете изменить пользовательские имена для разных настроек."
+
+  resources:
+    title:
+      en: "Resources"
+      ru: "Ресурсы"
+    desc:
+      en: "Information about what are a resources and how to set them up."
+      ru: "Информация о том, что такое ресурсы и как их можно настроить."
+
+  net-rates:
+    title:
+      en: "Net rates"
+      ru: "Сезонные тарифы"
+    desc:
+      en: "Get all instructions how to setup and manage complex price & rates options for your product."
+      ru: "Получите все инструкции о том как настроить и управлять комплексными ценами и вариантами тарифов для вашего продукта."
+
+  employees:
+    title:
+      en: "Employees"
+      ru: "Сотрудники"
+    desc:
+      en: "Configure and manage your employees and also roles, instructions for them."
+      ru: "Настройте и управляйте своими сотрудниками, а так же ролями и инструкциями для них."
+
+  fees-taxes:
+    title:
+      en: "Fees & taxes"
+      ru: "Сборы и налоги"
+    desc:
+      en: "Information about charging fees and taxes aplicable to your prices. Add fees or tax to your tour."
+      ru: "Информация о взимании сборов и налогов, применимых к вашим ценам. Добавьте сборы или налоги в ваш тур."
+
+  extras:
+    title:
+      en: "Extras"
+      ru: "Экстра опции"
+    desc:
+      en: "Get all instructions how to setup and manage your extra options for tours."
+      ru: "Получите все инструкции, как настроить и управлять вашими экстра опциями для туров."
+
+  participants:
+    title:
+      en: "Participants"
+      ru: "Участники"
+    desc:
+      en: "Information about how to setup a participants categories that will take part in a tours."
+      ru: "Информация о том, как настроить категории участников, которые будут задействованы в турах."  
+
+  pick-ups:
+    title:
+      en: "Pick-ups"
+      ru: "Трансферы"
+    desc:
+      en: "All information you need for setup and manage your pick-up lists for tours."
+      ru: "Вся информация, необходимая вам для настройки и управления списками трансферов для туров."
+
+  regional-settings:
+    title:
+      en: "Regional settings"
+      ru: "Региональные настройки"
+    desc:
+      en: "Find information such as how to edit and manage your company's timezone, currency etc."
+      ru: "Найдите информацию о том, как редактировать и управлять временной зоной компании, валютой и т.д." 
+
+  white-label:
+    title:
+      en: "White label"
+      ru: "Ваш вебсайт"
+    desc:
+      en: "Use this instructions to set up your website. Make it easier for people to find you online."
+      ru: "Используйте эту инструкцию чтобы настроить свой веб-сайт. Сделайте так, чтобы людям было проще найти вас в интернете."
+
+  tags:
+    title:
+      en: "Tags"
+      ru: "Теги"
+    desc:
+      en: "Information about marking your bookings with tags. You can easy understand their status."
+      ru: "Информация о маркировке ваших бронирований тегами. Вы можете легко понять их статус."
+
+  coupons:
+    title:
+      en: "Coupons"
+      ru: "Купоны"
+    desc:
+      en: "Get all information about a discount for your tours. Make a sale of your product."
+      ru: "Получите всю информацию о скидках на ваши туры. Сделайте распродажу своего продукта."
+
+  glossary:
+    title:
+      en: "Glossary"
+      ru: "Глоссарий"
+    desc:
+      en: "A brief description of the concepts used in the articles."
+      ru: "Краткое описание понятий, которые используются в статьях."       
